@@ -1,8 +1,7 @@
 # Fingerprint Generation Using Machine Learning
 
 This project explores the use of machine learning algorithms, specifically Generative Adversarial Networks (GANs) and Diffusion models, to generate synthetic fingerprint images.
-Complete documentation: https://drive.google.com/file/d/1qhC82-fU70M-Ut2PdjPjZGnGP7OvZxID/view?usp=sharing
-
+Complete documentation: https://drive.google.com/file/d/1dh204txk2K0WyzTDS7J-GJlasZlhl5J5/view?usp=sharing
 ## Project Overview
 
 This project aims to create realistic synthetic fingerprint data for training and testing fingerprint recognition systems, reducing reliance on real-world datasets and addressing privacy concerns.
