@@ -6,12 +6,6 @@ This project explores the use of machine learning algorithms, specifically Gener
 
 This project aims to create realistic synthetic fingerprint data for training and testing fingerprint recognition systems, reducing reliance on real-world datasets and addressing privacy concerns.
 
-## Authors
-
-- Hammad Aamer
-- Abhinand
-- Veerav
-
 ## Key Components
 
 ### Datasets
